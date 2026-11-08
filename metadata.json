@@ -1,0 +1,6 @@
+{
+  "name": "Moments | متجر مومنتس للهدايا والصور المغناطيسية",
+  "description": "متجر مومنتس للهدايا التذكارية وطباعة الصور المغناطيسية الفاخرة للثلاجة، البولارويد، الدباديب، والتوزيعات المصنوعة يدويًا بحب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
