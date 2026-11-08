@@ -23,7 +23,7 @@ const SLIDES: Slide[] = [
     title: 'حوّلي كل لحظة جميلة إلى',
     highlight: 'قطعة ديكور يومية تُسعدك',
     description: 'طباعة فوتوغرافية أرشيفية عالية الدقة على ورق مخملي محمي بطبقة ضد الخدوش، تثبت بقوة على الثلاجة والمكاتب لترافق يومكِ بحب.',
-    image: '/src/assets/images/hero_moments_polaroids_1794171613029.jpg',
+    image: '/images/hero_moments_polaroids.jpg',
     ctaText: 'تسوق الآن',
   },
   {
@@ -32,7 +32,7 @@ const SLIDES: Slide[] = [
     title: 'بوكسات فاخرة وتغليف راقٍ',
     highlight: 'يليق بأغلى من تحبين',
     description: 'صناديق كرافت مقواة ومحبوكة بخيوط الخيش وأغصان اللافندر الطبيعية وختم الشمع الملكي، جاهزة للإهداء المباشر دون عناء.',
-    image: '/src/assets/images/product_luxury_box_1794171628607.jpg',
+    image: '/images/product_luxury_box.jpg',
     ctaText: 'استكشفي البوكسات',
   },
   {
@@ -41,7 +41,7 @@ const SLIDES: Slide[] = [
     title: 'رفقاء ناعمون ورسائل دافئة',
     highlight: 'تترك بصمة في الوجدان',
     description: 'دباديب فائقة النعومة مع بطاقات إهداء شخصية محفورة أو مكتوبة بخط يد أنيق، بالإضافة لتعليقات السيارات الأكريليكية المخصصة.',
-    image: '/src/assets/images/product_teddy_gift_1794171628823.jpg',
+    image: '/images/product_teddy_gift.jpg',
     ctaText: 'شاهدي التشكيلة',
   },
 ];
